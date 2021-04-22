@@ -1,0 +1,3 @@
+username: riseup
+email : riseup@gmail.com
+pwd= 12345678
